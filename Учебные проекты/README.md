@@ -2,7 +2,7 @@
 
 | Наименование проекта | Описание | Стек |
 |----------------------|----------|------|
-| [Анализ продаж]() | Исследование данных онлайн-сервиса продажи билетов | Python (Pandas, Matplotlib, Seaborn, SciPy) |
-| [Проверка гипотез]() | Сравнение пользователей онлай-сервиса Книги | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
-| [A/B тестирование]() | Расчет параметров A/B-теста, оценка корректности его проведения | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
-| [A/B тестирование]() | Анализ результатов A/B-тестирования интернет-магазина | Python (Pandas, Matplotlib, Seaborn, SciPy, StatsModels) |
+| [Исследование данных онлайн-сервиса продажи билетов]() | Анализ продаж | Python (Pandas, Matplotlib, Seaborn, SciPy) |
+| [Проверка гипотезы в Python]() | Проверка гиротез | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
+| [Разработка AB-тестирования и анализ результатов]() | AB-тестирования | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
+| [Анализ результатов AB-тестирования интернет-магазина]() | AB-тестирования | Python (Pandas, Matplotlib, Seaborn, SciPy, StatsModels) |
