@@ -5,4 +5,4 @@
 | [Исследование данных онлайн-сервиса продажи билетов]() | Анализ продаж | Python (Pandas, Matplotlib, Seaborn, SciPy) |
 | [Проверка гипотезы в Python]() | Проверка гиротез | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
 | [Разработка AB-тестирования и анализ результатов]() | AB-тестирования | (Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
-| [Анализ результатов AB-тестирования интернет-магазина](Учебные проекты/Анализ результатов AB-тестирования интернет-магазина.ipynb) | AB-тестирования | Python (Pandas, Matplotlib, Seaborn, SciPy, StatsModels) |
+| [Анализ результатов AB-тестирования интернет-магазина](/Учебные%20проекты/Анализ%20результатов%20AB-тестирования%20интернет-магазина.ipynb) | AB-тестирование | Python (Pandas, Matplotlib, Seaborn, SciPy, StatsModels) |
