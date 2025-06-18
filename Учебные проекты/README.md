@@ -6,3 +6,4 @@
 | [Проверка гипотезы в Python](/Учебные%20проекты/Проверка%20гипотезы%20в%20Python.ipynb) | Проверка гипотез | Python(Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
 | [Разработка AB-тестирования и анализ результатов](/Учебные%20проекты/Разработка%20AB-тестирования%20и%20анализ%20результатов.ipynb) | AB-тестирование | Python(Pandas, Matplotlib, Seaborn, SciPy, StatsModels)
 | [Анализ результатов AB-тестирования интернет-магазина](/Учебные%20проекты/Анализ%20результатов%20AB-тестирования%20интернет-магазина.ipynb) | AB-тестирование | Python (Pandas, Matplotlib, Seaborn, SciPy, StatsModels) |
+| [Анализ данных сервиса Яндекс Афиша]([/Учебные%20проекты/Анализ%20результатов%20AB-тестирования%20интернет-магазина.ipynb](https://datalens.yandex.cloud/9tmabteu3voav)) | Dashboard | DataLens |
